@@ -16,6 +16,13 @@ This application is synthesises the **beats** and continue to repeat these rhymi
 |Tempo Manager|This is to modulate the tempo of the beats in realtime |
 |Relay Chat | chat within Same server in order to collaborate in real-time|
 
+
 ## Screenshots
 
 **Midi-BEATBOX without Server Functionality **
+
+![Screenshot](/screenshot/midi-Beatbox.png)
+
+**MIDI-BEATBOX with Server Functionality**
+
+![Screenshot](/screenshot/midi-Beatbox-with-server.png)
